@@ -1,0 +1,309 @@
+/* navbar css */
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    padding: 1.8%;
+}
+.navbar a{
+    text-decoration: none;
+    font-size: 17px;
+    color: black;
+    margin-left: 3.5%;
+    vertical-align: middle; 
+    font-weight: bold;
+}
+.logo{
+    margin:0%;
+}
+#signin{
+    background-color: #00baf2;
+    color:white;
+    border-radius: 25px;
+    padding: 1%;
+    margin-left: 1%;
+    border: none;
+    width: 10%;
+    font-weight: bold;
+    font-size: 18px;
+}
+#signin:hover{
+    background-color: #2b54a6;
+}
+/* wallet */
+.wallet{
+    text-align: center;
+    background-color: rgba(252, 248, 248, 0.932);
+    padding:1%;
+}
+/* section 2 */
+.sec2{
+    display: flex;
+    justify-content: space-between;
+    padding:5% 0% 5% 0%;
+    margin-top: 2%;
+}
+.UPI{
+    margin-left: 3%;
+}
+.UPI p{
+    font-size: 24px;
+    font-weight: normal;
+    margin-left: 3%;
+}
+.UPI h1{
+    margin-left: 3%;
+} 
+#app{
+    border:1px solid black;
+    width:40%;
+    border-radius: 23px;
+    padding: 2%;
+    background-color: black;
+    color:white;
+    font-size: 17px;
+    margin-left: 4%;
+    margin-top: 6%;
+
+}
+#app:hover{
+    background-color: white;
+    color:black;
+}
+#app i{
+    margin: 0% 2%;
+}
+.one{
+    margin-top: 5%;
+    font-size: 60px;
+}
+.two2{
+    font-size: 60px;
+}
+.two{
+    margin-top: 6%;
+    margin-right: 4%;
+}
+/* end sec2 */
+/* sec3 */
+.head2{
+    padding-top: 4%;
+    padding-left: 7%;
+    text-align: left;
+    font-size: 35px;
+    color:white;
+}
+.sec3{
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    background-color: #00adf2;
+}
+.div3{
+    display:flex;
+    justify-content: space-between;
+    padding:6%;
+    margin-left: 4%;
+    font-weight: bold;
+    text-decoration: none;
+    color:black;
+    font-size:18px;
+    line-height:30px;
+}
+.div3 a{
+    text-decoration: none;
+    color:white;
+}
+/* sec31 */
+.head2{
+    padding-top: 4%;
+    padding-left: 7%;
+    text-align: left;
+    font-size: 35px;
+    color:white;
+}
+.sec31{
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    background-color: rgb(43, 43, 175);
+}
+.div31{
+    display:flex;
+    justify-content: space-between;
+    padding:6%;
+    margin-left: 4%;
+    font-weight: bold;
+    text-decoration: none;
+    color:black;
+    font-size:18px;
+    line-height:30px;
+}
+.div31 a{
+    text-decoration: none;
+    color:white;
+}
+/* section 4 */
+.sec{
+    background-color: rgba(239,239,239,0.6);
+    padding:4% 12%;
+}
+#h3{
+    margin-top: 8%;
+    margin-left: 10%;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 5%;
+
+}
+.sec5{
+    display:flex;
+    justify-content: center;
+    border: none;
+    padding-top: 5%;
+    border-radius: 20px;
+}
+#sec5id{
+    font-size: 20px;
+
+}
+.sec1p{
+    font-size: 36px;
+}
+#appp{
+    border: 1p solid black;
+    width:74%;
+    border-radius: 23px;
+    padding:2%;
+    background-color: black;
+    color:white;
+    font-size:17px;
+    margin-left: 2%;
+    margin-top: 3%;
+    cursor:pointer;
+}
+#appp:hover{
+    background-color: white;
+    color:black;
+
+}
+#appp i{
+    margin: 0% 2%;
+
+}
+.i19{
+    padding-left: 10%;
+    padding-bottom: 5%;
+
+
+}
+.move{
+    margin-left: 5%;
+    padding-left: 5%;
+
+}
+/* last section in sec4 */
+.sec8{
+    display: flex;
+    padding-top: 0%;
+    margin-top: 5%;
+    justify-content: space-between;
+}
+.inner8{
+    width: 45%;
+    padding: 3%;
+    background-color: white;
+    border-radius: 20px;
+}
+.i20{
+    margin-right: 7%;
+    margin-bottom:0%;
+}
+/* section 7 */
+.h11{
+    padding-top:5%;
+    padding-left:10%;
+}
+.sec20{
+    display:flex;
+    justify-content: center;
+}
+.sec20div1{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.sec20div2,.sec20div3,.sec20div4{
+    padding-top: 5%;
+
+
+}
+.sec20 a{
+    font-weight: bold;
+}
+/* section 8 */
+.sec21{
+    padding:15% 10% 3% 10%;
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 0%;
+}
+#sec21div1{
+    padding-left: 1%;
+    background-color: white;
+    color:black;
+}
+.sec21 div{
+    background-color: #00baf2;
+    margin:0% 1%;
+    text-align: center;
+    color:white;
+    border-radius: 8%;
+}
+.sec21 img{
+    margin-top:4%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 2%;
+    width:80%;
+}
+.sec21 h1{
+
+    opacity:100%;
+}
+/* section 9 */
+.sec22{
+    padding:15% 10% 3% 10%;
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 1%;
+}
+#sec22div1{
+    padding-left: 1%;
+    background-color: white;
+    color:black;
+}
+.sec22 div{
+    background-color: #00baf2;
+    margin:0% 1%;
+    text-align: center;
+    color:white;
+    border-radius: 8%;
+     padding: 2%; 
+}
+.sec22 img{
+    margin-top:4%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 2%;
+    width:80%;
+}
+.sec22 h1{
+
+    opacity:100%;
+}
+
+
+
+
